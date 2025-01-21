@@ -36,3 +36,4 @@ void loop() {
   delay(10);
   //pausa breve para evitar cambios rapidos en el brillo del led
 }
+//Leonardo Ramos Espinoza y Sebastian Rodela Castillo 8F ISC 
